@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hey 👋, Nice to see you.
 
-<!--
-**wallace46886799/wallace46886799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wallace46886799&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I'm Zhang Fu, Full Stack developer from  China, currently living in  Beijing.*
+
+- ✍️ [Blog](https://wallace46886799.github.io/)
+
+</p>
+
+**Languages and Tools:**  
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-5849BE?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
+</p>
+
+
+**Contact:**
+
+<p>
+<a title="Github" href="https://github.com/wallace46886799" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/github.svg" target="_blank"></a>&nbsp;&nbsp;
+<a title="Gitee" href="https://gitee.com/wallace46886799" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/gitee.svg"></a>&nbsp;&nbsp;
+<a title="Email:46886799@163.com" href="mailto:46886799@163.com" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/mail.svg"></a>&nbsp;&nbsp;
+<a title="Wechat:46886799" href="https://cdn.fuzui.net/qrcode/wx.png" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/weixin.svg"></a>&nbsp;&nbsp;
+<a title="QQ:46886799" href="http://wpa.qq.com/msgrd?v=3&uin=59210983&site=qq&menu=yes" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/qq.svg"></a>&nbsp;&nbsp;
+</p>
+
