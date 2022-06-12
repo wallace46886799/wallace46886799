@@ -14,8 +14,13 @@
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ED8B1?style=flat-square&logo=pyton&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-5849BE?style=flat-square&logo=linux&logoColor=white" />
