@@ -37,7 +37,7 @@
 <a title="Github" href="https://github.com/wallace46886799" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/github.svg" target="_blank"></a>&nbsp;&nbsp;
 <a title="Gitee" href="https://gitee.com/wallace46886799" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/gitee.svg"></a>&nbsp;&nbsp;
 <a title="Email:46886799@163.com" href="mailto:46886799@163.com" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/mail.svg"></a>&nbsp;&nbsp;
-<a title="Wechat:46886799" href="https://cdn.fuzui.net/qrcode/wx.png" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/weixin.svg"></a>&nbsp;&nbsp;
+<a title="Wechat:46886799" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/weixin.svg"></a>&nbsp;&nbsp;
 <a title="QQ:46886799" href="http://wpa.qq.com/msgrd?v=3&uin=46886799&site=qq&menu=yes" target="_blank"><img height="30" src="https://oss.fuzui.net/logo/qq.svg"></a>&nbsp;&nbsp;
 </p>
 
