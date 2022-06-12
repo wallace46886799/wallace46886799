@@ -14,7 +14,7 @@
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ED8B00?style=flat-square&logo=pyton&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ED8B1?style=flat-square&logo=pyton&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat-square&logo=css3&logoColor=white" />
