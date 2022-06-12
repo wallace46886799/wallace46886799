@@ -3,9 +3,9 @@
 <p>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wallace46886799&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+*I'm Zhang Fu, a full stack developer from China, currently living in Beijing.*
 
-*I'm Zhang Fu, Full Stack developer from  China, currently living in  Beijing.*
-
+- ✍️ [Blog](https://wallace46886799.github.io/)
 - ✍️ [Blog](https://wallace46886799.github.io/)
 
 </p>
