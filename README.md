@@ -6,7 +6,6 @@
 *I'm Zhang Fu, a full stack developer from China, currently living in Beijing.*
 
 - ✍️ [Blog](https://wallace46886799.github.io/)
-- ✍️ [Blog](https://wallace46886799.github.io/)
 
 </p>
 
